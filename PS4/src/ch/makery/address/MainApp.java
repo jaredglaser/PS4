@@ -212,7 +212,6 @@ public class MainApp extends Application {
 	        primaryStage.setTitle("AddressApp");
 	    }
 	}
-	
 	/**
 	 * Loads person data from the specified file. The current person data will
 	 * be replaced.
